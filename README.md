@@ -3,3 +3,6 @@
  - Add your very own taks that need to be completed.
  - Edit/Delete any task.
  - Sort each task depending on completion status.
+ 
+ Hosted! Go check it out!
+ https://todolist-beta-five.vercel.app/
